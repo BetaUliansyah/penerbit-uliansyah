@@ -13,7 +13,7 @@ layout: default
             </div>
         </div>
         <div class="row">
-            {% assign firstkabars = site.kabar | sort: 'date' | reverse %}
+            {% assign firstkabars = site.blog | sort: 'date' | reverse %}
             {% for firstkabar in firstkabars limit:1 %}
             {% assign category = firstkabar.categories | first %}
             <article class="col-lg-6 mb-lg-0 mb-4">

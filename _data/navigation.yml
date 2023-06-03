@@ -8,11 +8,11 @@ nav:
   - title: "Profil Penulis"
     section: penulis
     
-  - title: "Kabar Ahlan"
-    section: kabar-ahlan
+  - title: "Blog"
+    section: blog
 
-  - title: "Agen Ahlan"
-    section: daftar-agen
+  - title: "Agen"
+    section: agen
 
   - title: "Testimoni"
     section: testimoni
