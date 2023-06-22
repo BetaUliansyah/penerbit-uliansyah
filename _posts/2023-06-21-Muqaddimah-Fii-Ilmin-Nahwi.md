@@ -1,5 +1,5 @@
 ---
-title: "Hak Teman, Tetangga, Kaum Muslimin, dan Hewan Peliharaan (Coming Soon)"
+title: "Muqaddimah Fii 'Ilmin Nahwi"
 date: "2023-01-21 14:14:17 +0700"
 image: "/assets/images/produk/Cover-Muqaddimah-Fii-Ilmin-Nahwi.jpg"
 author: "Rizki Gumilar"
