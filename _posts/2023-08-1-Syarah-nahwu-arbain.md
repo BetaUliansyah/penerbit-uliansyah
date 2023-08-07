@@ -1,5 +1,5 @@
 ---
-title: "Syarah Mandzhumah 'Ubaidi Rabbih"
+title: "Syarah Nahwu Arbain"
 date: "2023-08-01 14:14:17 +0700"
 image: "/assets/images/produk/cover-syarah-nahwu-arbain.jpg"
 author: "Rizki Gumilar"
