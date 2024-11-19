@@ -1,7 +1,7 @@
 ---
 title: "The Cute Girls' Startup!"
 date: "2024-10-15 14:14:17 +0700"
-image: "/assets/images/produk/cover-the-cute-girl-startup.jpeg"
+image: "/assets/images/produk/cover-the-cute-girl-startup2.jpeg"
 author: "R. Rulindo"
 halaman: "249"
 isbn: "Masih dalam proses"
