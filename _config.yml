@@ -2,7 +2,7 @@ title: Penerbit Uliansyah
 env: "production"
 description: "Website resmi Penerbit Uliansyah"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://penerbit.uliansyah.or.id" # the base hostname & protocol for your site, e.g. http://example.com
 address_& Contact: "Jl. Cempaka No C-124, Pondok Pucung Indah I, Tangerang Selatan, Indonesia - 15229 
 - +62 856 707 4554
 - penerbit.uliansyah@gmail.com"
