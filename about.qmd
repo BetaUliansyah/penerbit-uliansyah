@@ -2,7 +2,7 @@
 title: "Tentang Kami"
 about:
   template: jolla
-  image: profile.jpg
+  image: /assets/logo.png
   links:
     - icon: twitter
       text: Twitter
