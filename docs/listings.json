@@ -1,0 +1,28 @@
+[
+  {
+    "listing": "/katalog.html",
+    "items": [
+      "/books/8-40-mutiara-kehidupan.html",
+      "/books/7-ens.html",
+      "/books/6-600-kosakata-bahasa-arab-harianku.html",
+      "/books/5-the-cute-girl-startup.html",
+      "/books/3-syarah-nahwu-arbain.html",
+      "/books/4-tenang.html",
+      "/books/2-syarah-mandzhumah-ubaidi-robbih.html",
+      "/books/1-muqaddimah-fii-ilmin-nahwi.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/books/8-40-mutiara-kehidupan.html",
+      "/books/6-600-kosakata-bahasa-arab-harianku.html",
+      "/books/7-ens.html",
+      "/books/1-muqaddimah-fii-ilmin-nahwi.html",
+      "/books/4-tenang.html",
+      "/books/2-syarah-mandzhumah-ubaidi-robbih.html",
+      "/books/3-syarah-nahwu-arbain.html",
+      "/books/5-the-cute-girl-startup.html"
+    ]
+  }
+]
