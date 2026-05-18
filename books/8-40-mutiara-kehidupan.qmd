@@ -1,0 +1,38 @@
+---
+title: "40 Mutiara Kaidah Kehidupan: Panduan Hidup Islami untuk Menemukan Ketenangan Jiwa di Era Modern"
+date: 2025-10-09
+image: "/assets/books/8-cover-40-mutiara-kaidah-kehidupan.jpg"
+author: "Abdul Aziz Luthfi"
+halaman: "48"
+isbn: "Masih dalam proses"
+bahasa: "Indonesia"
+categories: "Agama"
+format: html
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+![](/assets/books/8-cover-40-mutiara-kaidah-kehidupan.jpg){height=500px}
+:::
+
+::: {.g-col-8}
+## Sinopsis
+Buku ini, "40 Mutiara Kaidah Kehidupan: Panduan Hidup Islami untuk Menemukan Ketenangan Jiwa di Era Modern", merupakan upaya sederhana untuk menggali kembali kekayaan nilai-nilai Islam dalam menjawab tantangan kesehatan mental yang kian kompleks di era modern. Berangkat dari keresahan akan meningkatnya gangguan psikologis, kecemasan, hingga kehilangan makna hidup yang melanda banyak orang—termasuk kaum Muslimin—buku ini menyajikan 40 prinsip kehidupan yang bersumber langsung dari Al-Qur’an dan hadits Nabi ﷺ.
+:::
+
+:::
+
+
+
+## Spesifikasi Buku:
+| Item | Deskripsi |
+| ---- | ----------- |
+| Penulis | Abdul Aziz Luthfi | 
+| Ukuran | 14,8 x 21,0 cm | 
+| Jumlah halaman | 48 halaman | 
+| ISBN | (masih dalam proses) |
+| Bahasa | Indonesia |
+
+## Pemesanan
+Silahkan hubungi kami melalui kontak yang tersedia di halaman [kontak](kontak).

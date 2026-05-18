@@ -1,0 +1,13 @@
+---
+title: "Katalog"
+listing:
+  contents: 
+    - books/*.qmd
+  type: grid
+  sort: "date desc"
+  fields: [image, title, author, halaman, categories]
+  image-height: 600px
+  grid-columns: 4
+---
+
+Berikut adalah katalog buku yang diterbitkan Penerbit Uliansyah

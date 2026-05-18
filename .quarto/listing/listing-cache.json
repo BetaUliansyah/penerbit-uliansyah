@@ -1,0 +1,10 @@
+{
+  "listingMap": {
+    "index.qmd": [
+      "books/*.qmd"
+    ],
+    "katalog.qmd": [
+      "books/*.qmd"
+    ]
+  }
+}

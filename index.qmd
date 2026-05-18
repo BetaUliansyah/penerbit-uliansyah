@@ -1,0 +1,68 @@
+---
+title: "Penerbit Uliansyah"
+filters:
+  - carousel
+lightbox: true
+listing:
+  contents: 
+    - books/*.qmd
+  type: grid
+  fields: [image, title, author, halaman, categories]
+  image-height: 400px
+  grid-columns: 6
+---
+
+:::: {.carousel .dark .framed}
+
+:::: {.carousel-item image="assets/slides/slide-1-produk.png" .nolightbox}
+:::
+
+:::: {.carousel-item image="assets/slides/slide-2-layanan.png" .nolightbox}
+:::
+
+:::: {.carousel-item image="assets/slides/slide-3-buku-online.png" .nolightbox}
+:::
+
+:::
+
+# Layanan
+### Tampilkan Idemu pada Dunia
+
+Kami memahami bahwa setiap penulis memiliki kebutuhan yang berbeda. Oleh karena itu, kami menyediakan tiga paket penerbitan yang dapat Anda pilih sesuai dengan tujuan dan anggaran Anda.
+
+::: {.panel-tabset}
+
+## Paket A
+
+Paket ini cocok bagi Anda yang ingin menerbitkan karya dalam format digital.
+
+- **Jasa ISBN**: Rp 250.000
+- **Jasa Layout**: Rp 15.000 / Halaman
+- **Bentuk Akhir**: E-book (PDF/EPUB)
+
+## Paket B
+
+Paket ini cocok bagi Anda yang ingin mendistribusikan karya secara digital dan memiliki bentuk fisik untuk keperluan koleksi atau penjualan langsung.
+
+- **Jasa ISBN**: Rp 250.000
+- **Jasa Layout**: Rp 15.000 / Halaman
+- **Bentuk Akhir**: E-book (PDF/EPUB) & Cetak Fisik (min. 100 pcs)
+
+## Paket C
+
+Paket terlengkap bagi Anda yang ingin menjangkau pembaca secara luas melalui platform buku online serta memiliki buku fisik.
+
+- **Jasa ISBN**: Rp 250.000
+- **Jasa Layout**: Rp 15.000 / Halaman
+- **Bentuk Akhir**: E-book (PDF/EPUB), Cetak Fisik (min. 100 pcs), dan Buku Online
+
+[Contoh buku online](https://betauliansyah.github.io/tpsk/)
+
+## Informasi Tambahan
+
+- **Waktu Pengerjaan**: Tergantung jumlah halaman dan antrean. Rata-rata 2-4 minggu.
+- **Konsultasi Gratis**: [Hubungi kami](https://wa.me/6282189096866?text=Saya+ingin+konsultasi+penerbitan+buku) untuk mendiskusikan kebutuhan Anda.
+
+:::
+
+## Katalog Buku
