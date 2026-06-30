@@ -4,24 +4,33 @@ date: 2023-08-01
 author: "Silmy K. Risman"
 image: "/assets/books/4-cover-tenang.jpg"
 halaman: 22
-categories: [Anak-anak]
-isbn: "Masih dalam proses"
-bahasa: "Indonesia"
+categories: ["Anak-anak"]
 format: html
 ---
+::: {.grid}
 
+::: {.g-col-4}
+![](/assets/books/4-cover-tenang.jpg){height=500px}
+:::
+
+::: {.g-col-8}
+## Sinopsis
 Menjadi tenang adalah sesuatu keterampilan yang penting dan perlu dimiliki semua orang.
 Ketenangan adalah salah satu ciri Muslim dan juga karakteristik mereka yang sehat mental.
 Semoga buku ini memudahkan kita belajar dan mengajarkan anak-anak menjadi keduanya.
 Selamat membaca!
+:::
 
+:::
 
+## Spesifikasi Buku:
+| Item | Deskripsi |
+| ---- | ----------- |
+| Penulis | Silmy K. Risman | 
+| Ukuran | 17 x 17 cm | 
+| Jumlah halaman | 22 halaman | 
+| ISBN | 978-623-09-7164-8 |
+| Bahasa | Indonesia |
 
-🔥Spesifikasi Buku:🔥
-
-
-▪️Full color
-
-▪️Ukuran 17 x 17 cm
-
-▪️Isi 22 halaman
+## Pemesanan
+Silahkan hubungi kami melalui kontak yang tersedia di halaman [kontak](kontak).

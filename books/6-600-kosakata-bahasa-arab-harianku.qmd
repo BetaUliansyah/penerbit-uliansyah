@@ -1,32 +1,37 @@
 ---
 title: "600++ Kosakata Вahasa Arab Harianku"
 date: 2025-03-01
-image: "/assets/books/6-cover-600++-KOSAKАТА.jpeg"
+image: "/assets/books/6-cover-600-kosakata.jpeg"
 author: "Rizki Hidayatullah, В.А."
 halaman: 210
-isbn: "Masih dalam proses"
-bahasa: "Indonesia"
-categories: "Pendidikan"
+categories: ["Pendidikan", "Agama", "Dewasa"]
 format: html
 ---
+::: {.grid}
 
+::: {.g-col-4}
+![](/assets/books/6-cover-600-kosakata.jpeg){height=500px}
+:::
+
+::: {.g-col-8}
+## Sinopsis
 Bahasa Arab dalam agama Islam memiliki kedudukan yang sangat tinggi; maka dari itu, selayaknya kita sebagai umat muslim berusaha semaksimal mungkin untuk dapat mempelajari dan menguasainya.
 
 Buku ini sebagai langkah awal bagi anda dalam mengenal bahasa Arab. Buku ini berisi ratusan kosakata yang sering digunakan dalam kehidupan sehari-hari. Setiap kosakata disusun secara sistematis, penuh warna dan gambar-gambar (faceless) yang menarik. Dilengkapi juga dengan bentuk jamak dan contoh penggunaannya dalam kalimat yang singkat serta mudah dihafal dan dipahami.
 
 Menarik bukan?! Segera dapatkan bukunya dan raih manfaatnya! Baarakallahu fiikum.
+:::
 
+:::
 
+## Spesifikasi Buku:
+| Item | Deskripsi |
+| ---- | ----------- |
+| Penulis | Rizki Hidayatullah, В.А. | 
+| Ukuran | 17,6 x25 cm | 
+| Jumlah halaman | 210 halaman | 
+| ISBN | 978-623-10-8567-2 |
+| Bahasa | Indonesia |
 
-🔥Spesifikasi Buku:🔥
-
-▪️Softcover
-
-▪️Full color
-
-▪️Faceless
-
-▪️Ukuran 17,6 x25 cm
-
-▪️Isi 210 halaman
-
+## Pemesanan
+Silahkan hubungi kami melalui kontak yang tersedia di halaman [kontak](kontak).

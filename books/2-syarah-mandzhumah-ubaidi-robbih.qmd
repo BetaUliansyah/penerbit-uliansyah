@@ -4,22 +4,32 @@ date: 2023-07-21
 author: "Rizki Gumilar"
 image: "/assets/books/2-Cover-Syarah-Mandzhumah-Ubaidi-Robbih.jpg"
 halaman: 158
-categories: [Agama]
-isbn: "Masih dalam proses"
-bahasa: "Indonesia"
+categories: ["Pendidikan", "Agama", "Bahasa"]
 format: html
 ---
+::: {.grid}
 
-Belajar tentang agama Islam tidak terlepas dengan belajar bahasa Arab, karena Al Qur'an Allah turunkan dalam bahasa Arab. Di dalam Ilmu bahasa Arab sendiri ada yang fundamental untuk dikuasai yaitu Ilmu Nahwu. Yuk, kita pelajari bersama!
+::: {.g-col-4}
+![](/assets/books/2-Cover-Syarah-Mandzhumah-Ubaidi-Robbih.jpg){height=500px}
+:::
 
-🔥Spesifikasi Buku:🔥
+::: {.g-col-8}
+## Sinopsis
+Belajar tentang agama Islam tidak terlepas dengan belajar bahasa Arab, karena Al Qur'an Allah turunkan dalam bahasa Arab.
+Di dalam Ilmu bahasa Arab sendiri ada yang fundamental untuk dikuasai yaitu Ilmu Nahwu.
+Yuk, kita pelajari bersama!
+:::
 
-▪️Softcover
+:::
 
-▪️Full color
+## Spesifikasi Buku:
+| Item | Deskripsi |
+| ---- | ----------- |
+| Penulis | Rizki Gumilar | 
+| Ukuran | 21x29,7 cm | 
+| Jumlah halaman | 158 halaman | 
+| ISBN | 978-623-09-4873-2 |
+| Bahasa | Indonesia |
 
-▪️Faceless
-
-▪️Ukuran 21x29,7 cm (A4)
-
-▪️Isi 158 halaman
+## Pemesanan
+Silahkan hubungi kami melalui kontak yang tersedia di halaman [kontak](kontak).

@@ -3,13 +3,10 @@ title: "40 Mutiara Kaidah Kehidupan: Panduan Hidup Islami untuk Menemukan Ketena
 date: 2025-10-09
 image: "/assets/books/8-cover-40-mutiara-kaidah-kehidupan.jpg"
 author: "Abdul Aziz Luthfi"
-halaman: "48"
-isbn: "Masih dalam proses"
-bahasa: "Indonesia"
-categories: "Agama"
+halaman: 48
+categories: ["Agama", "Dewasa"]
 format: html
 ---
-
 ::: {.grid}
 
 ::: {.g-col-4}
@@ -22,8 +19,6 @@ Buku ini, "40 Mutiara Kaidah Kehidupan: Panduan Hidup Islami untuk Menemukan Ket
 :::
 
 :::
-
-
 
 ## Spesifikasi Buku:
 | Item | Deskripsi |

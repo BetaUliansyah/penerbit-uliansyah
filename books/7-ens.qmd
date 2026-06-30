@@ -4,12 +4,17 @@ date: 2025-07-20
 image: "/assets/books/7-cover-ens.jpg"
 author: "Elly Risman, Fadhillah A Mudzakkar, Hilman Al Madani"
 halaman: 128
-isbn: "Masih dalam proses"
-bahasa: "Indonesia"
-categories: "Pendidikan"
+categories: ["Pendidikan", "Remaja"]
 format: html
 ---
+::: {.grid}
 
+::: {.g-col-4}
+![](/assets/books/7-cover-ens.jpg){height=500px}
+:::
+
+::: {.g-col-8}
+## Sinopsis
 EnSexlopedia adalah panduan bagi anak-anak dan remaja Muslim dalam menyambut masa pubertas. Buku ini disajikan dengan gaya yang ringan, menarik, dan komunikatif, menghadirkan Adik, seorang remaja yang ditemani oleh Kakak, Abang, Ayah, dan Ibu dalam perjalanan mengenal perubahan tubuh, emosi, serta pentingnya menjaga diri sesuai ajaran Islam.
 
 Ditulis oleh para ahli di bidang parenting, psikologi, dan pendidikan, buku ini membahas perubahan fisik, emosi, serta tantangan sosial yang muncul saat anak mulai beranjak dewasa. Setiap topik disampaikan dengan pendekatan yang sederhana, dan disusun dalam format komik, infografik, tanya-jawab interaktif, dan konten visual yang menarik, sehingga menjadikan proses belajar tentang pubertas lebih menyenangkan dan tidak membuat canggung.
@@ -17,17 +22,18 @@ Ditulis oleh para ahli di bidang parenting, psikologi, dan pendidikan, buku ini 
 Buku ini didedikasikan untuk anak-anak Indonesia, generasi penerus yang berhak mendapat pendampingan dan pengetahuan yang benar, sehat, dan penuh nilai, agar mereka tumbuh menjadi pribadi yang kuat, berkarakter, dan siap menghadapi masa depan dengan percaya diri.
 
 Lebih dari sekadar buku, EnSexlopedia adalah hadiah untuk para orang tua dalam mendampingi tumbuh kembang anak melalui ilmu, iman, dan kasih sayang.
+:::
 
+:::
 
+## Spesifikasi Buku:
+| Item | Deskripsi |
+| ---- | ----------- |
+| Penulis | Elly Risman, Fadhillah A Mudzakkar, Hilman Al Madani | 
+| Ukuran | 21 x 29,7 cm (A4) | 
+| Jumlah halaman | 128 halaman | 
+| ISBN | 978-634-04-2605-2 |
+| Bahasa | Indonesia |
 
-🔥Spesifikasi Buku:🔥
-
-
-▪️Full color
-
-▪️Ukuran 21x29,7 cm (A4)
-
-▪️Isi 128 halaman
-
-Penulis: Elly Risman, Fadhillah A Mudzakkar, Hilman Al Madani
-
+## Pemesanan
+Silahkan hubungi kami melalui kontak yang tersedia di halaman [kontak](kontak).
