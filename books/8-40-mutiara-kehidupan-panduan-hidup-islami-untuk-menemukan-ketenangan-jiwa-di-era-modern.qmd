@@ -3,7 +3,7 @@ title: "Kaidah Penulisan Arab Braille: Qawaa'idu fil Imlaa-i Lilkitaabati al'Ara
 date: 2026-6-30
 image: "/assets/books/9-cover-kaidah-penulisan-arab-braille.jpg"
 author: "Drs. M. Nadjamuddin"
-halaman: 48
+halaman: 145
 categories: ["Agama", "Dewasa"]
 format: html
 ---
@@ -25,7 +25,7 @@ Buku ini berisi kaidah penulisan huruf Arab menggunakan huruf Braille bagi tuna 
 | ---- | ----------- |
 | Penulis | Drs. M. Nadjamuddin | 
 | Ukuran | 14,8 x 21,0 cm (A5) | 
-| Jumlah halaman | 48 halaman | 
+| Jumlah halaman | 145 halaman | 
 | ISBN | (masih dalam proses) |
 | Bahasa | Indonesia |
 
